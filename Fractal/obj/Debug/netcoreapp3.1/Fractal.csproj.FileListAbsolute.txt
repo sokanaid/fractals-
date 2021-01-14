@@ -1,0 +1,45 @@
+C:\Users\Diana\source\repos\Fractal\Fractal\bin\Debug\netcoreapp3.1\Fractal.exe
+C:\Users\Diana\source\repos\Fractal\Fractal\bin\Debug\netcoreapp3.1\Fractal.deps.json
+C:\Users\Diana\source\repos\Fractal\Fractal\bin\Debug\netcoreapp3.1\Fractal.runtimeconfig.json
+C:\Users\Diana\source\repos\Fractal\Fractal\bin\Debug\netcoreapp3.1\Fractal.runtimeconfig.dev.json
+C:\Users\Diana\source\repos\Fractal\Fractal\bin\Debug\netcoreapp3.1\Fractal.dll
+C:\Users\Diana\source\repos\Fractal\Fractal\bin\Debug\netcoreapp3.1\Fractal.pdb
+C:\Users\Diana\source\repos\Fractal\Fractal\obj\Debug\netcoreapp3.1\Fractal.csprojAssemblyReference.cache
+C:\Users\Diana\source\repos\Fractal\Fractal\obj\Debug\netcoreapp3.1\Fractal.MainWindow.resources
+C:\Users\Diana\source\repos\Fractal\Fractal\obj\Debug\netcoreapp3.1\Fractal.csproj.GenerateResource.cache
+C:\Users\Diana\source\repos\Fractal\Fractal\obj\Debug\netcoreapp3.1\Fractal.AssemblyInfoInputs.cache
+C:\Users\Diana\source\repos\Fractal\Fractal\obj\Debug\netcoreapp3.1\Fractal.AssemblyInfo.cs
+C:\Users\Diana\source\repos\Fractal\Fractal\obj\Debug\netcoreapp3.1\Fractal.csproj.CoreCompileInputs.cache
+C:\Users\Diana\source\repos\Fractal\Fractal\obj\Debug\netcoreapp3.1\Fractal.dll
+C:\Users\Diana\source\repos\Fractal\Fractal\obj\Debug\netcoreapp3.1\Fractal.pdb
+C:\Users\Diana\source\repos\Fractal\Fractal\obj\Debug\netcoreapp3.1\Fractal.genruntimeconfig.cache
+D:\диана институт\Программирование\Fractal\Fractal\bin\Debug\netcoreapp3.1\Fractal.exe
+D:\диана институт\Программирование\Fractal\Fractal\bin\Debug\netcoreapp3.1\Fractal.deps.json
+D:\диана институт\Программирование\Fractal\Fractal\bin\Debug\netcoreapp3.1\Fractal.runtimeconfig.json
+D:\диана институт\Программирование\Fractal\Fractal\bin\Debug\netcoreapp3.1\Fractal.runtimeconfig.dev.json
+D:\диана институт\Программирование\Fractal\Fractal\bin\Debug\netcoreapp3.1\Fractal.dll
+D:\диана институт\Программирование\Fractal\Fractal\bin\Debug\netcoreapp3.1\Fractal.pdb
+D:\диана институт\Программирование\Fractal\Fractal\obj\Debug\netcoreapp3.1\Fractal.csprojAssemblyReference.cache
+D:\диана институт\Программирование\Fractal\Fractal\obj\Debug\netcoreapp3.1\Fractal.MainWindow.resources
+D:\диана институт\Программирование\Fractal\Fractal\obj\Debug\netcoreapp3.1\Fractal.csproj.GenerateResource.cache
+D:\диана институт\Программирование\Fractal\Fractal\obj\Debug\netcoreapp3.1\Fractal.AssemblyInfoInputs.cache
+D:\диана институт\Программирование\Fractal\Fractal\obj\Debug\netcoreapp3.1\Fractal.AssemblyInfo.cs
+D:\диана институт\Программирование\Fractal\Fractal\obj\Debug\netcoreapp3.1\Fractal.csproj.CoreCompileInputs.cache
+D:\диана институт\Программирование\Fractal\Fractal\obj\Debug\netcoreapp3.1\Fractal.dll
+D:\диана институт\Программирование\Fractal\Fractal\obj\Debug\netcoreapp3.1\Fractal.pdb
+D:\диана институт\Программирование\Fractal\Fractal\obj\Debug\netcoreapp3.1\Fractal.genruntimeconfig.cache
+D:\диана институт\Программирование\Fractal2\Fractal\Fractal\bin\Debug\netcoreapp3.1\Fractal.exe
+D:\диана институт\Программирование\Fractal2\Fractal\Fractal\bin\Debug\netcoreapp3.1\Fractal.deps.json
+D:\диана институт\Программирование\Fractal2\Fractal\Fractal\bin\Debug\netcoreapp3.1\Fractal.runtimeconfig.json
+D:\диана институт\Программирование\Fractal2\Fractal\Fractal\bin\Debug\netcoreapp3.1\Fractal.runtimeconfig.dev.json
+D:\диана институт\Программирование\Fractal2\Fractal\Fractal\bin\Debug\netcoreapp3.1\Fractal.dll
+D:\диана институт\Программирование\Fractal2\Fractal\Fractal\bin\Debug\netcoreapp3.1\Fractal.pdb
+D:\диана институт\Программирование\Fractal2\Fractal\Fractal\obj\Debug\netcoreapp3.1\Fractal.csprojAssemblyReference.cache
+D:\диана институт\Программирование\Fractal2\Fractal\Fractal\obj\Debug\netcoreapp3.1\Fractal.MainWindow.resources
+D:\диана институт\Программирование\Fractal2\Fractal\Fractal\obj\Debug\netcoreapp3.1\Fractal.csproj.GenerateResource.cache
+D:\диана институт\Программирование\Fractal2\Fractal\Fractal\obj\Debug\netcoreapp3.1\Fractal.AssemblyInfoInputs.cache
+D:\диана институт\Программирование\Fractal2\Fractal\Fractal\obj\Debug\netcoreapp3.1\Fractal.AssemblyInfo.cs
+D:\диана институт\Программирование\Fractal2\Fractal\Fractal\obj\Debug\netcoreapp3.1\Fractal.csproj.CoreCompileInputs.cache
+D:\диана институт\Программирование\Fractal2\Fractal\Fractal\obj\Debug\netcoreapp3.1\Fractal.dll
+D:\диана институт\Программирование\Fractal2\Fractal\Fractal\obj\Debug\netcoreapp3.1\Fractal.pdb
+D:\диана институт\Программирование\Fractal2\Fractal\Fractal\obj\Debug\netcoreapp3.1\Fractal.genruntimeconfig.cache
